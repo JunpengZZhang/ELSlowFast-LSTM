@@ -1,7 +1,7 @@
 # ELSlowFast-LSTM
 Source code of "Behavior detection of dairy goat based on YOLO11 and ELSlowFast-LSTM"
 
-![img](https://github.com/JunpengZZhang/ELSlowFast-LSTM/figure.png)
+![img](figure.png)
 
 ## Requirements
 
